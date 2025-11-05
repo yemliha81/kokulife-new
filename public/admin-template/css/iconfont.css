@@ -1,0 +1,106 @@
+@font-face {
+  font-family: iconfont;
+  font-style: normal;
+  font-weight: 400;
+  src: url(../font/iconfont/iconfont.eot);
+  src: url(../font/iconfont/iconfont.eot?#iefix) format("embedded-opentype"),
+    url(../font/iconfont/iconfont.woff) format("woff"),
+    url(../font/iconfont/iconfont.ttf) format("truetype"),
+    url(../font/iconfont/iconfont.svg#iconfont) format("svg");
+}
+[class*="icon-"]:before {
+  display: inline-block;
+  font-family: iconfont;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-upload-document:before {
+  content: "\0041";
+}
+.icon-download-shape:before {
+  content: "\0042";
+}
+.icon-globe:before {
+  content: "\0043";
+}
+.icon-angle-down:before {
+  content: "\0044";
+}
+.icon-angle-right:before {
+  content: "\0045";
+}
+.icon-angle-left:before {
+  content: "\0046";
+}
+.icon-marker:before {
+  content: "\0047";
+}
+.icon-triangle-down:before {
+  content: "\0048";
+}
+.icon-world:before {
+  content: "\0049";
+}
+.icon-brain:before {
+  content: "\004a";
+}
+.icon-check-polygon:before {
+  content: "\004b";
+}
+.icon-printer:before {
+  content: "\004c";
+}
+.icon-linkedin:before {
+  content: "\004d";
+}
+.icon-facebook:before {
+  content: "\004e";
+}
+.icon-twitter:before {
+  content: "\004f";
+}
+.icon-whatsapp:before {
+  content: "\0050";
+}
+.icon-link:before {
+  content: "\0051";
+}
+.icon-phone:before {
+  content: "\0052";
+}
+.icon-at:before {
+  content: "\0053";
+}
+.icon-direct:before {
+  content: "\0054";
+}
+.icon-share:before {
+  content: "\0055";
+}
+.icon-gps:before {
+  content: "\0056";
+}
+.icon-youtube-square:before {
+  content: "\0057";
+}
+.icon-twitter-square:before {
+  content: "\0058";
+}
+.icon-instagram-square:before {
+  content: "\0059";
+}
+.icon-linkedin-square:before {
+  content: "\005a";
+}
+.icon-facebook-square:before {
+  content: "\0061";
+}
+.icon-map:before {
+  content: "\0062";
+}
+.icon-arrow-up-long:before {
+  content: "\0063";
+}
